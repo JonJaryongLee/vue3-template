@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "vitest.explorer",
+    "ms-playwright.playwright",
+    "dbaeumer.vscode-eslint",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "vscode-icons-team.vscode-icons",
+    "christian-kohler.path-intellisense"
+  ]
+}
